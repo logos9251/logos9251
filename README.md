@@ -81,6 +81,17 @@ Final-year **Software Engineering** student at **FPT University**, focused on sc
 
 ---
 
+## Architect
+
+| Domain | Practices |
+| :--- | :--- |
+| **System design** | Microservices, Clean Architecture, Layers, Event-Driven Architecture (EDA), Backend for Frontend (BFF) |
+| **Domain modeling** | Domain-Driven Design (DDD), Vertical Slice Architecture (VSA), CQRS, Event Sourcing |
+| **Distributed workflows** | Saga, Outbox |
+| **Application structure** | Design Patterns, MVC, MVVC |
+
+---
+
 ## GitHub Pulse
 
 <p align="center">
