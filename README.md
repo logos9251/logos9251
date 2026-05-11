@@ -2,14 +2,16 @@
 
 # Nguyen Quoc Khai · Khai Nguyen
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=920&height=96&lines=Backend+%7C+Agentic+Systems+%7C+DevOps;Microservices+%E2%86%92+Cloud-native+delivery;EDA+%7C+CQRS+%7C+Saga+%7C+Outbox)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=88&lines=Welcome+to+my+GitHub+profile;Software+Engineer+%7C+Backend+%7C+Agentic+Systems;DevOps+%26+Cloud-native+engineering)](https://git.io/typing-svg)
 
-[![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)](https://github.com/YOUR_USERNAME)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/YOUR_USERNAME?tab=followers)
+Welcome to my GitHub profile — a space for backend systems, cloud engineering, and agentic development work.
 
-**Software Engineer · Backend Developer · Agentic Developer · DevOps & Cloud**
+[![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=profile%20views&color=58a6ff&style=flat-square)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&logo=github&label=followers&color=181717)](https://github.com/YOUR_USERNAME?tab=followers)
 
-Final-year **Software Engineering** student at **FPT University** — building distributed systems that stay fast under load, observable in production, and ready to evolve.
+**Software Engineer** · **Backend Developer** · **Agentic Developer** · **DevOps & Cloud**
+
+Final-year **Software Engineering** student at **FPT University**, focused on scalable distributed systems and production-ready cloud delivery.
 
 </div>
 
@@ -41,7 +43,6 @@ Final-year **Software Engineering** student at **FPT University** — building d
 [![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/ef/)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgis.net/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
@@ -51,12 +52,12 @@ Final-year **Software Engineering** student at **FPT University** — building d
 
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
-[![Debezium](https://img.shields.io/badge/Debezium-FF6F00?style=for-the-badge)](https://debezium.io/)
+[![Debezium](https://img.shields.io/badge/Debezium-FF6F00?style=for-the-badge&logo=apache&logoColor=white)](https://debezium.io/)
 [![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)](https://flink.apache.org/)
-[![LangGraph](https://img.shields.io/badge/LangGraph-F97316?style=for-the-badge)](https://www.langchain.com/langgraph)
+[![LangGraph](https://img.shields.io/badge/LangGraph-F97316?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/langgraph)
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/bedrock/)
-[![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge)](https://www.langchain.com/langsmith)
+[![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/langsmith)
 
 ### Platform, Security & Delivery
 
@@ -77,19 +78,6 @@ Final-year **Software Engineering** student at **FPT University** — building d
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
 [![YARP](https://img.shields.io/badge/YARP-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://microsoft.github.io/reverse-proxy/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-
----
-
-## Architecture Playbook
-
-> **Design for change** — boundaries that scale, events that decouple, and patterns that survive production.
-
-| Layer | Moves |
-| :--- | :--- |
-| **System** | Microservices · Clean Architecture · Layers · EDA · BFF |
-| **Domain** | DDD · VSA · CQRS · Event Sourcing |
-| **Distributed** | Saga · Outbox |
-| **Application** | Design Patterns · MVC · MVVM / MVVC |
 
 ---
 
@@ -133,7 +121,5 @@ Final-year **Software Engineering** student at **FPT University** — building d
 <div align="center">
 
 **Vibe coding · Rapid prototyping · AI-assisted delivery** — Cursor, Copilot, Antigravity
-
-*If the system is boring in prod, the design probably was too.*
 
 </div>
