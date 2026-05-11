@@ -1,43 +1,77 @@
-# Welcome to my space! 👋
+# Nguyen Quoc Khai (Khai Nguyen)
 
-## I'm Nguyen Quoc Khai (Khai Nguyen)
-**Software Engineer | Backend Developer | Agentic Developer | DevOps & Cloud Enthusiast**
+**Software Engineer · Backend Developer · Agentic Developer · DevOps & Cloud**
 
-I am a final-year Software Engineering student at **FPT University**. With a passion for building high-performance and scalable distributed systems, I focus deeply on Microservices architecture, the .NET ecosystem, and Cloud-native solutions.
+Final-year Software Engineering student at **FPT University**, focused on high-performance distributed systems, microservices, and cloud-native delivery across the .NET, JVM, and Python ecosystems.
 
 ---
 
-### 🚀 Technologies & Skills
+## Technologies & Skills
 
-| Category | Technologies & Tools |
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+
+### Backend, Data & Messaging
+
+| Area | Stack |
 | :--- | :--- |
-| **Backend & Logic** | ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Langgraph](https://img.shields.io/badge/LangGraph-orange?style=flat-square) ![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **Data & Messaging** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Debezium](https://img.shields.io/badge/Debezium-FF6F00?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
-| **Monitoring & Test** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic-stack&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-lightgrey?style=flat-square) ![K6](https://img.shields.io/badge/K6-7D64FF?style=flat-square&logo=k6&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **Frameworks & ORM** | ASP.NET, Spring Boot, FastAPI, EF Core, Hibernate |
+| **Databases & Search** | PostgreSQL / PostGIS, MongoDB, Redis, pgvector, Qdrant |
+| **Streaming & Integration** | Kafka, RabbitMQ, Debezium, Apache Flink |
+| **AI & Agents** | LangGraph, Machine Learning, Amazon Bedrock, LangSmith |
+
+### Platform, Security & Delivery
+
+| Area | Stack |
+| :--- | :--- |
+| **Containers & Orchestration** | Docker, Kubernetes |
+| **Cloud & IaC** | AWS, Azure, Terraform |
+| **CI/CD & GitOps** | Jenkins, Argo CD |
+| **Observability & Testing** | Prometheus, Grafana, ELK, Loki, K6 |
+| **Auth, Edge & Mobile** | JWT, Keycloak, Nginx, YARP, Flutter |
 
 ---
 
-### 🏗️ Architecture & Design Thinking
-I apply advanced principles and patterns to solve complex problems in software development:
-- **Architectures:** Microservices, Event-Driven Architecture (EDA), Clean Architecture, N-Tier Layers.
-- **Patterns & Methodology:** Domain-Driven Design (DDD), CQRS, Design Patterns (DP), QSA.
-- **UI/UX Patterns:** MVC, MVVM/MVVC.
+## Architecture & Design
+
+Principles and patterns used to keep systems modular, observable, and evolvable under real-world load.
+
+| Domain | Practices |
+| :--- | :--- |
+| **System design** | Microservices, Clean Architecture, layered design, Event-Driven Architecture (EDA), Backend for Frontend (BFF) |
+| **Domain modeling** | Domain-Driven Design (DDD), Vertical Slice Architecture (VSA), CQRS, Event Sourcing |
+| **Distributed workflows** | Saga, Transactional Outbox |
+| **Application structure** | Design Patterns, MVC, MVVM / MVVC |
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
 
-### 📫 Connect with me
-- 💼 **LinkedIn:** [linkedin.com/in/khai-nguyen](https://linkedin.com/in/YOUR_LINKEDIN)
-- 📧 **Email:** [logos5129@gmail.com](mailto:khai.nq.dev@gmail.com)
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/khai-nguyen](https://linkedin.com/in/YOUR_LINKEDIN)
+- **Email:** [logos5129@gmail.com](mailto:khai.nq.dev@gmail.com)
 
 ---
-*“Vibe coding & Rapid prototyping with AI-powered tools (Cursor, Copilot, Antigravity)”*
+
+*Vibe coding and rapid prototyping with AI-assisted tooling (Cursor, Copilot, Antigravity).*
